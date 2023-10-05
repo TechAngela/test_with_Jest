@@ -1,0 +1,1 @@
+{"version":3,"file":"students.model.mjs","sourceRoot":"","sources":["../../../src/mongodb/models/students.model.mts"],"names":[],"mappings":"AAAA,OAAO,QAAQ,MAAM,UAAU,CAAC;AAChC,MAAM,aAAa,GAAG,IAAI,QAAQ,CAAC,MAAM,CAAC;IACrC,IAAI,EAAE,MAAM;IACZ,MAAM,EAAC,MAAM;IACb,KAAK,EAAC,MAAM;CAChB,CAAC,CAAC;AACH,MAAM,OAAO,GAAG,QAAQ,CAAC,KAAK,CAAC,SAAS,EAAE,aAAa,CAAC,CAAC;AACzD,eAAe,OAAO,CAAC"}
